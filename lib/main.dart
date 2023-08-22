@@ -1,4 +1,3 @@
-import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:currency_app/widgets/button.dart';
 import 'package:currency_app/widgets/currency_card.dart';
